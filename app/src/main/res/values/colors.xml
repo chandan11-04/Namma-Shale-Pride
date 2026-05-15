@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette - Deep Emerald -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_light">#4C8C4A</color>
+    <color name="primary_dark">#003300</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary Palette - Royal Blue -->
+    <color name="secondary">#0D47A1</color>
+    <color name="secondary_light">#5472D3</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Tertiary - Warm Gold -->
+    <color name="tertiary">#F9A825</color>
+    <color name="tertiary_light">#FFD95A</color>
+    <color name="on_tertiary">#000000</color>
+
+    <!-- Surface & Background -->
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F0F4F0</color>
+    <color name="on_background">#1A1C1E</color>
+    <color name="on_surface">#1A1C1E</color>
+    <color name="on_surface_variant">#44474E</color>
+
+    <!-- Cards & Containers -->
+    <color name="card_stroke">#E8ECF0</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_elevated">#FAFCFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#44474E</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- Status -->
+    <color name="error">#D32F2F</color>
+    <color name="success">#2E7D32</color>
+    <color name="warning">#F57C00</color>
+
+    <!-- Badges - Vibrant -->
+    <color name="badge_activity">#1565C0</color>
+    <color name="badge_meal">#2E7D32</color>
+    <color name="badge_achievement">#F9A825</color>
+    <color name="badge_announcement">#7B1FA2</color>
+    <color name="anonymous_badge">#78909C</color>
+
+    <!-- Special -->
+    <color name="star_gold">#FFD700</color>
+    <color name="overlay_dark">#99000000</color>
+    <color name="overlay_light">#33FFFFFF</color>
+    <color name="shimmer">#E0E0E0</color>
+    <color name="divider">#E8ECF0</color>
+
+    <!-- Bottom Navigation -->
+    <color name="bottom_nav_active">#1B5E20</color>
+    <color name="bottom_nav_inactive">#9CA3AF</color>
+    <color name="bottom_nav_bg">#FFFFFF</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#1B5E20</color>
+    <color name="gradient_end">#004D40</color>
+    <color name="gradient_gold_start">#F9A825</color>
+    <color name="gradient_gold_end">#FF8F00</color>
+</resources>

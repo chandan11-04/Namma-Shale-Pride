@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/anim_slide_in_right.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_facility.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_facility.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_settings.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_gradient_green.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_gradient_green.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_activity_main.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_badge_rounded.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_badge_rounded.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_facility.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_facility.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_settings.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_item_student_star.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_student_star.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_activity_forgot_password.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_badge.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_eta_circle.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_eta_circle.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/anim_fade_out.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_activity_signup.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_camera.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_meal.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_meal.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_activity_login.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_star.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_home.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_feedback.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/anim_slide_out_left.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_bg_icon_circle.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/bg_icon_circle.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_stars.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_stars.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_report.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_feedback.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_placeholder.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_item_facility_page.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_facility_page.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_meal.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_meal.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_home.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_bus_tracking.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_bus_tracking.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_item_meal.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_bottom_sheet_meal_scanner.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/bottom_sheet_meal_scanner.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_fragment_admin.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/xml_file_paths.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/drawable_ic_add.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_item_feedback.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_feedback.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_activity_facility_fullscreen.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_facility_fullscreen.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/layout_item_post.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-debug-55:/anim_fade_in.xml.flat",
+        "source": "com.nammashale.shalepride.app-main-57:/anim/fade_in.xml"
+    }
+]

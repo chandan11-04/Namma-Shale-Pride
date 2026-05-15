@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/item_meal.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_settings.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_meal.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_meal.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_stars.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_stars.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_admin.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/activity_forgot_password.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/activity_signup.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/item_feedback.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_feedback.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/item_facility_page.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_facility_page.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/activity_facility_fullscreen.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_facility_fullscreen.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_report.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_bus_tracking.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_bus_tracking.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_facility.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_facility.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/item_student_star.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_student_star.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/item_post.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_feedback.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/bottom_sheet_meal_scanner.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/bottom_sheet_meal_scanner.xml"
+    },
+    {
+        "merged": "com.nammashale.shalepride.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.nammashale.shalepride.app-main-57:/layout/activity_main.xml"
+    }
+]

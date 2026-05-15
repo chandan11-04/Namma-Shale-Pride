@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ShaleNammaPride" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#66BB6A</item>
+        <item name="colorPrimaryContainer">#1B5E20</item>
+        <item name="colorOnPrimary">#003300</item>
+        <item name="colorSecondary">#64B5F6</item>
+        <item name="colorOnSecondary">#003300</item>
+        <item name="colorTertiary">#FFD54F</item>
+        <item name="colorError">#EF5350</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorOnSurface">#E0E0E0</item>
+        <item name="colorSurfaceVariant">#2C2C2C</item>
+        <item name="colorOnSurfaceVariant">#B0B0B0</item>
+        <item name="android:colorBackground">#121212</item>
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:navigationBarColor">#1E1E1E</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

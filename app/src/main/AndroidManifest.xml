@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+    <!-- Added for Wow Features -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- Voice Input -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Bus Tracking -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="32" /> <!-- PDF Export -->
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <application
+        android:name=".ShaleApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShaleNammaPride"
+        tools:targetApi="34">
+
+        <!-- Cloudinary Configuration -->
+        <meta-data
+            android:name="CLOUDINARY_URL"
+            android:value="cloudinary://@YOUR_CLOUD_NAME" />
+
+        <!-- Splash Screen -->
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.ShaleNammaPride.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Auth Activities -->
+        <activity
+            android:name=".ui.auth.LoginActivity"
+            android:theme="@style/Theme.ShaleNammaPride" />
+        <activity
+            android:name=".ui.auth.SignupActivity"
+            android:theme="@style/Theme.ShaleNammaPride" />
+        <activity
+            android:name=".ui.auth.ForgotPasswordActivity"
+            android:theme="@style/Theme.ShaleNammaPride" />
+
+        <!-- Main Activity -->
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:theme="@style/Theme.ShaleNammaPride" />
+
+        <!-- Facility Fullscreen -->
+        <activity
+            android:name=".ui.facility.FacilityFullscreenActivity"
+            android:theme="@style/Theme.ShaleNammaPride.Fullscreen" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+    </application>
+
+</manifest>

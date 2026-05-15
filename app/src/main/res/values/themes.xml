@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme -->
+    <style name="Theme.ShaleNammaPride" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorOnTertiary">@color/on_tertiary</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="colorSurfaceVariant">@color/surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/on_surface_variant</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="Theme.ShaleNammaPride.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="postSplashScreenTheme">@style/Theme.ShaleNammaPride</item>
+    </style>
+
+    <!-- Text Input Style -->
+    <style name="AppTextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">@dimen/corner_md</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/corner_md</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/corner_md</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/corner_md</item>
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+    </style>
+
+    <!-- Primary Button -->
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/corner_md</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/text_md</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/on_primary</item>
+        <item name="android:elevation">@dimen/elevation_sm</item>
+    </style>
+
+    <!-- Secondary Button -->
+    <style name="SecondaryButton" parent="Widget.Material3.Button.TonalButton">
+        <item name="cornerRadius">@dimen/corner_md</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/text_body</item>
+    </style>
+
+    <!-- Card Style -->
+    <style name="AppCard" parent="Widget.Material3.CardView.Filled">
+        <item name="cardCornerRadius">@dimen/corner_lg</item>
+        <item name="cardElevation">@dimen/elevation_sm</item>
+        <item name="strokeColor">@color/card_stroke</item>
+        <item name="strokeWidth">0.5dp</item>
+    </style>
+
+    <!-- Bottom Sheet -->
+    <style name="AppBottomSheet" parent="Widget.Material3.BottomSheet">
+        <item name="shapeAppearanceOverlay">@style/BottomSheetCorners</item>
+    </style>
+
+    <style name="BottomSheetCorners" parent="">
+        <item name="cornerSizeTopLeft">@dimen/corner_xl</item>
+        <item name="cornerSizeTopRight">@dimen/corner_xl</item>
+    </style>
+
+    <!-- Chip Style -->
+    <style name="AppChip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipCornerRadius">@dimen/corner_full</item>
+    </style>
+    <!-- Fullscreen Theme -->
+    <style name="Theme.ShaleNammaPride.Fullscreen" parent="Theme.ShaleNammaPride">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

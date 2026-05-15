@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Book base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,35 L54,28 L70,35 L70,72 L54,65 L38,72 Z"/>
+
+    <!-- Book center line -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M54,28 L54,65"
+        android:strokeWidth="1"
+        android:strokeColor="#C8E6C9"/>
+
+    <!-- Left page lines -->
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M42,40 L52,36 M42,46 L52,42 M42,52 L52,48 M42,58 L52,54"
+        android:strokeWidth="1.5"
+        android:strokeColor="#A5D6A7"/>
+
+    <!-- Right page lines -->
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M56,36 L66,40 M56,42 L66,46 M56,48 L66,52 M56,54 L66,58"
+        android:strokeWidth="1.5"
+        android:strokeColor="#A5D6A7"/>
+
+    <!-- Graduation cap -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,22 L40,28 L54,34 L68,28 Z"/>
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,34 L68,28 L68,30 L54,36 Z"/>
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M54,34 L40,28 L40,30 L54,36 Z"/>
+
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1.5"
+        android:pathData="M68,28 L68,36"
+        android:fillColor="#00000000"/>
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M66,36 Q68,38 70,36 Q68,40 66,36"/>
+
+    <!-- Star accent -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,60 L55.5,63 L59,63.5 L56.5,66 L57,69.5 L54,68 L51,69.5 L51.5,66 L49,63.5 L52.5,63 Z"/>
+</vector>
